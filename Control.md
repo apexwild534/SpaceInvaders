@@ -1,0 +1,6 @@
+- **Left Arrow Key**:
+  - Move the player's spaceship to the left.
+- **Right Arrow Key**:
+  - Move the player's spaceship to the right.
+- **Spacebar (Space Key)**:
+  - Fire a bullet from the player's spaceship.
